@@ -1,0 +1,6 @@
+Gist
+GitHub also operates a pastebin-style site called Gist.[18], which is for code snippets, as opposed to GitHub proper, which is for larger projects.[citation needed] Tom Preston-Werner débuted the feature at a Ruby conference in 2008.[85]
+
+Gist builds on the traditional simple concept of a pastebin by adding version control for code snippets, easy forking, and TLS encryption for private pastes. Because each "gist" has its own Git repository, multiple code snippets can be contained in a single paste and they can be pushed and pulled using Git.[citation needed]
+
+Unregistered users were able to upload Gists until February 18, 2018, when uploading gists became available only to logged-in users, to mitigate spamming.[86]
